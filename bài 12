@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> bài 12 </title>
+</head>
+<body>
+	<form>
+		<table border="1">
+			<tr>
+				<th> họ và tên</th>
+				<th><input type="text " name=" hoten "> <br></th>
+			</tr>
+			<tr>
+			<th> Địa chỉ </th> 
+			<th> <input type="text" name="diachi "> <br></th>
+			</tr>
+			<tr>
+				<th>Điện thoại</th>
+				<th><input type="text" name="dienthoai"> <br></th>
+			</tr>
+			<tr>
+				<th> Phái </th>
+				<th>Nam <input type="checkbox" name="Nu"> Nữ <input type="checkbox" name="Nu"></th>
+			</tr>
+			<tr>
+				<th>Nghề nghiệp </th>
+				<th>
+				<select name = "dropdown">
+				 <option  value="Bác sĩ" selected > Bác sĩ </option> 
+					<option value="Kỹ sư" > Kỹ sư</option>
+					<option value="Khác" > Khác </option>
+					</select>
+			</th>
+			</tr>
+			<tr>
+				<th> Số người dự đoán </th>
+				<th> <input type="text" name="so nguoi"></th>
+			</tr>
+			<td align="center" colspan="2">
+				 <input type="button" onclick="alert('bạn đã đăng ký thành công')" name="dongy" value=" ĐỒNG Ý"> 
+				
+			</td>
+				
+			
+		 
+		</table>
+	</form>
+
+</body>
+</html>
