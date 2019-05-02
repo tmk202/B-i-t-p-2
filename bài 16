@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> bài 16 </title>
+</head>
+<body>
+	<table border="1">
+		<tr>
+			
+
+			<th colspan="2" style="color: blue"><font size="10 "> 
+				<img src="C:\Users\Administrator\Desktop\123.jpg" width="100" height="100" align="right" style="z-index: 1">
+				Ai? </font> <font size="7">cái gì? </font><font size="3">ở đâu ? </font></th>
+			
+		</tr>
+		<tr >
+			<th align="left" rowspan="15" align="top"> 
+				<ul >
+					<li> <a href="tinhyeu.html"> tình yêu và gia đình</a></li>
+					<li> <a href="tinhyeu.html"> Sức khỏe</a></li>
+					<li> <a href="tinhyeu.html"> Du lịch</a></li>
+					<li> <a href="tinhyeu.html"> Ẩm thực</a></li>
+					<li> <a href="tinhyeu.html"> Âm nhạc</a></li>
+				</ul>
+
+
+			</th> </tr>
+			<tr>
+			<th align="left
+			" style="color: white"  > <div style="background-color: #3399FF"> Tình yêu và gia đình </div></th> </tr>
+			<tr>
+			<th align="left" style="color: #00FFFF"  >  Trầu cau </div></th> </tr>
+			<tr>
+			<th align="left"> <img align="left" width="80" height="80" src="C:\Users\Administrator\Desktop\trau.jpg"> Tình yêu là gì? là ta yêu một người mỗi ngày trong 1 năm , Mỗi năm trong một đời người ...</th> </tr>
+			<tr>
+			<th align="left" style="color: #00FFFF"  >
+
+
+			 Xây dựng hạnh phúc gia đình bằng những bữa cơm hàng ngày</th> </tr>
+			<tr>
+			<th align="left"> <img src="C:\Users\Administrator\Desktop\com.jpg" width="100" height="100" align="left" style="z-index: 1">
+				Nói đến hạnh phúc gia đình chúng ta thường mô tả bằng những từ  thật đẹp đẽ và được thể hiện qua những giá trị đạo đức rất đáng trân trọng như tình yêu , lòng chung thủy ,	tình nghĩa vợ chồng , lòng  yêu thương , hy sinh cho con cái
+			</th> </tr>
+			<tr>
+			<th align="left" style="background-color: #3399FF"> <div style="color: white"> Sức khỏe</div></th> </tr>
+			<tr>
+			<th align="left" style="color: #3399FF"> 10 lời khuyên trong dinh dưỡng</th> </tr>
+			<tr>
+			<th align="left"> 
+			<img align="left" width="80" height="80" src="C:\Users\Administrator\Desktop\cachua.jpg"> Cơ thể chúng ta cần nhiều chất dinh dưỡng từ nhiều nguồn lương thực khác nhau . vì vậy chúng ta nên thay đổi các loại lương thực khác nhau . Chúng ta không cần kiêng chi cả - quan trọng là chú ý đến số lượng</th> </tr>
+			<tr>
+			<th align="left" style="color: #3399FF"> Làm sao để bỏ thuốc lá?</th> </tr>
+			<tr>
+			<th align="left"> <img align="left" width="80" height="80" src="C:\Users\Administrator\Desktop\thuoc.jpg">
+			 Sức khỏe của chính bạn. Không hút thuốc lá tức là giảm thiểu đáng kể  rủi ro mắc  các loại bệnh ung thư và sức khỏe sẽ tăng lên đáng kể so với khi còn hút thuốc</th> </tr>
+			 <tr>
+			 	<th align="left" style="background-color:  #3399FF">
+			 		<div style="color: white">du lịch</div>
+			 	</th>
+			 </tr>
+			 <tr>
+			 	<th align="left">
+			 		<b>Các tour mới nhất</b>
+			 	</th>
+			 </tr>
+			 <tr>
+			 	<th align="left">
+			 		<li>Côn minh - đại lý - lệ giang</li>
+			 		<li>đến macau</li>
+			 		<li>về cà mau ăn tôm tít</li>
+
+			 	</th>
+			 </tr>
+			 <tr>
+			 	<th align="right">
+			 		<a href="16.html">Về đầu trang</a>
+			 	</th>
+			 </tr>
+			 
+		</tr>
+	</table>
+
+</body>
+</html>
