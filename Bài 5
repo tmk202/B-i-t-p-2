@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Định dạng văn bản</title>
+	<style type="text/css">
+		h2{
+			color: darkgreen;
+		}
+		div{
+			color: #0000CC;
+			background-color: #CCCCCC;
+		}
+		font{
+			color: #FF0000;
+		}
+	</style>
+</head>
+<body>
+	<h2 align="center">Định dạng văn bản</h2>
+	<p>
+		<b><u>Hóa học:</u></b>
+		<i>Nước:</i>
+		<font>H<sub>2</sub>O</font>
+		<i>; Axít Sunfuric:</i>
+		<font>H<sub>2</sub>SO<sub>4</sub></font> 
+	</p> 
+	<p>
+		<b><u>Toán học:</u></b>
+		<i> Phương trình bậc 2: </i>
+		<font>ax<sup>2</sup>+bx+c=0</font>
+	</p>
+	<p>
+		<b><u>Tin học:</u></b>
+		<i>Vòng lặp For.</i>
+	</p>	
+	<div>
+		<pre>                    For i = 0 To 10
+		           
+		           Tong = Tong + 1
+		    
+		    Next    </pre>
+	</div>
+		
+
+</body>
+</html>
